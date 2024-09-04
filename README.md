@@ -1,11 +1,10 @@
-# Curso Eu ProgrAmo - PrograMARIA
-
+# Curso Eu ProgrAmo 
 Este repositório contém os projetos realizados durante o curso online de análise de dados que concluí.
 
 ## 📚 Sobre o Curso
 
 - **Nome do Curso:** Análise de Dados | Meus primeiros passos em python 
-- **Plataforma:** pela PrograMaria.
+- **Plataforma:** PrograMaria.
 - **Duração:** 20h
 
 ## 💡Principais Conteúdos
