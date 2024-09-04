@@ -21,6 +21,7 @@ Este repositório contém os projetos realizados durante o curso online de anál
 - Bibliotecas: Pandas, NumPy, Matplotlib, Ploty
 - Ambiente de Desenvolvimento: Jupyter Notebook | Google Colab
 
+
 ## 📄 Certificado
 
 https://euprogramo.thinkific.com/certificates/myc6gwmjot
